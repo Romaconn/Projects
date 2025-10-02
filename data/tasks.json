@@ -1,0 +1,12 @@
+{
+  "active": [],
+  "completed": [],
+  "recurring": [
+    {
+      "id": "daily-task-check-in",
+      "title": "Log new tasks and review priorities",
+      "frequency": "daily",
+      "prompt": "Ask Conner if there are new tasks to capture and review today's priorities."
+    }
+  ]
+}
