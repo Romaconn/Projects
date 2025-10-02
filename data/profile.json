@@ -1,0 +1,13 @@
+{
+  "name": "Conner",
+  "role": "Developer",
+  "preferences": {
+    "coding_languages": ["Python", "JavaScript"],
+    "work_hours": "09:00-17:00",
+    "reminder_channel": "terminal"
+  },
+  "long_term_goals": [
+    "Ship personal portfolio updates",
+    "Keep task backlog organized"
+  ]
+}
